@@ -1,0 +1,16 @@
+body {
+    background: rgb(0, 255, 252);
+    background: linear-gradient(90deg, rgba(0, 255, 252, 1) 0%, rgba(1, 255, 0, 1) 50%, rgba(0, 255, 244, 1) 99%);
+    min-height: 100vh;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 50px;
+}
+
+button {
+    width: 50px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+}
